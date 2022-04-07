@@ -1,0 +1,27 @@
+{
+    box-sizing : border-box;
+}
+
+.left {
+    background-color: blue;
+    padding: 20px;
+    float: left;
+    width: 20%; /*the sun is 20%, by default */
+
+}
+
+.main {
+    background-color: aquamarine;
+    padding: 20px;
+    float: top center;
+    width: 60%;
+}
+
+.right {
+    background-color: aliceblue;
+    padding: 20px;
+    float: left;
+    width: 20%;
+}
+
+
